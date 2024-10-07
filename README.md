@@ -12,11 +12,8 @@ This project was part of my virtual internship with Forage for British Airways. 
 * **Analyzed Sentiment**: Used sentiment analysis to figure out what customers were happy or unhappy about.
 * **Visualized Trends**: Created clear charts and graphs to highlight key trends in customer feedback.
 * **Suggested Improvements**: Based on the analysis, I offered some recommendations on how British Airways could improve their service.
-  
-![](https://github.com/L0bar/Portfolio/blob/main/images/download%20(1).png)
-From the wordcloud above, we can see the key of topics in customer review are flight, seat , service and time. showing that people are actively talking about their experience on the plane and the staff.
+  ![](/images/pie.png)
 
-![](/images/pie.png)
   
 ## Tools I Used
 * *Python:* For everything from scraping to analysis.
