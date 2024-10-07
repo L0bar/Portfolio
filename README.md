@@ -99,7 +99,7 @@ I gathered bike ride data for London, focusing on details like trip duration, st
 * Several central London stations serve as primary hubs for bike rides, with heavy traffic during the work week.
 
 ## Project 4 
-### Data Cleaning with SQL
+### *Data Cleaning with SQL*
 
 This project involved cleaning a raw dataset of Nashville housing data to prepare it for analysis. The dataset contained various inconsistencies and missing information, which required several data cleaning steps to ensure the data was structured and accurate for further use.
 
@@ -117,7 +117,7 @@ This project involved cleaning a raw dataset of Nashville housing data to prepar
 * Jupyter Notebook: For documenting the SQL queries and steps involved in cleaning the data.
 
 ## Project 5 
-### Housesales Analysis - > Tableau project
+### *Housesales Analysis - > Tableau project*
 
 Project aimed to visualize key insights such as housing prices, locations, and factors affecting property value. The dataset includes information on house features like square footage, number of bedrooms and bathrooms, year built, and sale price, giving a comprehensive view of the real estate market in King County.
 
